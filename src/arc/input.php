@@ -9,7 +9,7 @@
 
 /**
  * Class for Petri Net Input Arcs.
- * Input Arcs are connected from a Place to a Transition.
+ * Input arcs are connected from a Place to a Transition.
  *
  * @package     Petrinet
  * @subpackage  Arc
